@@ -1,0 +1,48 @@
+
+html{
+
+    background-color:#ffffcc;
+    background-repeat:no-repeat;
+    margin:30px;
+}
+header
+{
+    background-color:#ffffcc;
+}
+main, body{
+    background-color:rgba(250, 230, 164, 0.88);
+}
+main .paragraph{
+    margin-left:20px;
+}
+main h2{
+    margin-left:15px;
+}
+footer{
+    background-color:#E7E5E5;
+    text-align: left;
+}
+
+/* Change the link color to #111 (black) on hover */
+#bs-example-navbar-collapse-1 a:hover{
+    background-color: #DEFD6E;
+}
+/*nav bar*/
+.navbar-default .navbar-nav > li.dropdown:hover > a, 
+.navbar-default .navbar-nav > li.dropdown:hover > a:hover,
+.navbar-default .navbar-nav > li.dropdown:hover > a:focus 
+{
+    background-color: rgb(231, 231, 231);
+    color: rgb(255, 133, 85);
+}
+li.dropdown:hover > .dropdown-menu 
+{
+    display: block;
+}
+
+
+.active {
+    background-color: #C5FF68;
+}
+
+    

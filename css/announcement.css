@@ -1,0 +1,23 @@
+section {
+	background-color: none;
+	border-width:1px;
+	border-bottom-style:solid;
+	border-top-style:solid;
+	border-color: black;
+
+}
+section h1 {
+
+	font-size: 23px;
+	text-decoration:underline;
+	text-decoration-color:#382020;
+
+}
+section h3 {
+	font-size: 20px;
+}	
+section h5 {
+
+	color: #352B2B;
+	font-size:15px;
+}

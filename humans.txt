@@ -1,0 +1,8 @@
+/* Developer */
+	Daeho Chang
+
+/*Site*/
+	Last Updated: 11/15/2017
+	Language: English
+	Doctype: HTML
+	IDE: Sublime text, notepad++, Inkscape
